@@ -1,4 +1,4 @@
-# Project C - Flappy Bird Game Clone
+# Project C - Flappy Bird Game 
 
 A browser-based clone of the classic Flappy Bird game. Built with HTML, CSS, and JavaScript, the game offers a simple, addictive gameplay experience where users control a bird, navigating through obstacles to achieve a high score.
 
